@@ -1,0 +1,1 @@
+This is a project meant to demonstrate how to configure and setup a basic maven roject and use it to add dependencies for the automation testing process. This is meant to be a teaching guide for freshers interested in the very basics of test automation framework building using Java, Selenium, and TestNG.
